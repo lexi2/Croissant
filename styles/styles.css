@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  background-color: rgb(178, 222, 230);
+}
+
+footer a {
+  margin: 0 10px;
+  color: blueviolet;
+}
+
+img {
+  border-radius: 10px;
+  max-width: 600px;
+}
